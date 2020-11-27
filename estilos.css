@@ -1,9 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Piedra&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
 @import url('https://db.onlinewebfonts.com/c/d1d2fcc2af22fc5b167c92e1cf1b0b0c?family=CrazyDavidNo1W00-Regular');
-@import url('https://db.onlinewebfonts.com/c/e5d25deb76dbb86d65d8f4be17cee565?family=CoreBandiW01-Regular');
-@import url('https://db.onlinewebfonts.com/c/4e5fa2ca91b3f126b5569d55db698f9c?family=Baby+Blocks');
 @import url('https://db.onlinewebfonts.com/c/4b2e9a7beb7b319ec29dbb51cf5215cc?family=Death+to+Metal');
 @import url('https://db.onlinewebfonts.com/c/d26119fc55f4af095beb19f619ae1bab?family=Stone+Age');
 body{
@@ -17,11 +12,7 @@ h1
 {
     -webkit-text-fill-color: yellow;
     font-weight: lighter;
-    font-family: 'Nerko One', cursive;
-    font-family: 'Piedra', cursive;
-    
     font-family: "CrazyDavidNo1W00-Regular";
-
     font-size: 8vh;
     margin-top: 0%;
     
@@ -29,11 +20,6 @@ h1
 h3{
     -webkit-text-fill-color: coral;
     -webkit-text-stroke:0.001px black ;
-    
-    font-family: 'Monoton', cursive;   
-    font-family: 'Nerko One', cursive;
-    font-family: 'Piedra', cursive;
-    font-family: "CoreBandiW01-Regular";
     font-family: "Death to Metal",monospace;
     font-size: 7vh;
     position: absolute;
