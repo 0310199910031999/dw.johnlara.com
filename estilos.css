@@ -1,6 +1,14 @@
 @import url('https://db.onlinewebfonts.com/c/d1d2fcc2af22fc5b167c92e1cf1b0b0c?family=CrazyDavidNo1W00-Regular');
 @import url('https://db.onlinewebfonts.com/c/4b2e9a7beb7b319ec29dbb51cf5215cc?family=Death+to+Metal');
 @import url('https://db.onlinewebfonts.com/c/d26119fc55f4af095beb19f619ae1bab?family=Stone+Age');
+@font-face {font-family: "Stone Age W03 Rg";
+  src: url("fonts/d26119fc55f4af095beb19f619ae1bab.eot"); /* IE9*/
+  src: url("fonts/d26119fc55f4af095beb19f619ae1bab.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+  url("fonts/d26119fc55f4af095beb19f619ae1bab.woff2") format("woff2"), /* chrome、firefox */
+  url("fonts/d26119fc55f4af095beb19f619ae1bab.woff") format("woff"), /* chrome、firefox */
+  url("fonts/d26119fc55f4af095beb19f619ae1bab.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+  url("fonts/d26119fc55f4af095beb19f619ae1bab.svg#Stone Age W03 Rg") format("svg"); /* iOS 4.1- */
+}
 body{
     background-image: url("fondo.jpg");
     background-repeat: no-repeat;
@@ -34,7 +42,7 @@ h3{
     -webkit-text-fill-color: rgb(228, 174, 74);
     -webkit-text-stroke:0.00001px black ;  
     font-size: 2.3vh;
-    font-family: "Stone Age";
+    font-family:"Stone Age W03 Rg";
     width: 20%;
     position: absolute;
     padding: 1%;
