@@ -1,0 +1,124 @@
+.imagen1
+{
+    width: 60%;
+    position: relative;
+    left: 20%;
+}
+.titulo
+{
+    width: 100%;
+    text-align: center;
+    font-size: 10vh;
+}
+.sub,.gris
+{
+    width: 100%;
+    text-align: center;
+    font-size: 5vh;
+}
+.gris
+{
+    color: grey;
+}
+
+.t1,.t2,.t3,.t4,.t5
+{
+    position: relative;
+    width: 85%;
+    left: 12%;
+    font-weight: 900;
+    padding: 1%;
+    border-style: double;
+    border-width: 5px;
+    border-spacing: 1px;
+    text-align: left;
+    font-size: 6.5vh;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.t1
+{
+    margin-bottom: 10%;
+}
+ol
+{
+    position: relative;
+    font-size: 6vh;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    left: 14%;
+    line-height: 250%;
+}
+
+ul
+{
+    position: relative;
+    font-size: 5.5vh;
+    left: 9%;
+}
+.limage
+{
+    margin-top: 7%;
+    position: relative;
+    width: 68%;
+    left: 32%;
+    text-align: left;   
+    line-height: 180%;
+    font-size: 5.5vh;
+}
+.img2
+{
+    position: absolute;
+    width: 30%;
+    margin-top: 6%;
+    
+    
+}
+.t111,.t222
+{
+    position: relative;
+    width: 85%;
+    left: 2%;
+    font-weight: 900;
+    padding: 1%;
+    border-style: double;
+    border-width: 5px;
+    border-spacing: 1px;
+    text-align: left;
+    font-size: 6.5vh;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.noc
+{
+    left: 2%;
+}
+.parrafo
+{
+    position: relative;
+    font-size: 6vh;
+    line-height: 160%;
+    text-align: justify;
+    width: 96%;
+    left: 2%;
+   
+}
+.ref
+{
+    left: 2%;
+    font-size: 4vh;
+    width: 95%;
+}
+.t6
+{
+    position: relative;
+    width: 80%;
+    left: 10%;
+    font-weight: 900;
+    padding: 1%;
+    border-style: double;
+    border-width: 5px;
+    border-spacing: 1px;
+    text-align: right;
+    font-size: 6.5vh;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
