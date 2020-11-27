@@ -1,0 +1,82 @@
+body
+{
+    background-color: rgb(154, 201, 255);   
+}
+.n1,.n2,.n3,.n4,.n5,.n6,.n7,.n8,.n9,.n99
+{
+    position: absolute;
+    border-radius: 20px;
+}
+.n1
+{
+    width: 65%;
+    height: 8%;
+    background-color: dodgerblue;
+    margin: 3%;
+    left: 5%;
+}
+.n2 
+{
+    width: 65%;
+    height: 7.5%;
+    background-color: rgb(255, 255, 255);
+    margin: 3%;
+    left: 25%;
+    top: 15%;
+}
+.n3{
+    width: 20%;
+    height: 60%;
+    background-color: dodgerblue;
+    left: 5%;
+    top: 21%;
+}
+.n4{
+    width: 20%;
+    height: 65%;
+    background-color: white;
+    left: 28%;
+    top: 35%;
+}
+.n5{
+    width: 20%;
+    height: 45%;
+    background-color: dodgerblue;
+    left: 50.5%;
+    top: 40%;
+
+}
+.n6{
+    width: 20%;
+    height: 49.5%;
+    background-color: white;
+    left: 73%;
+    top: 35%;
+}
+.n7{
+    width: 20%;
+    height: 40%;
+    background-color: rgb(255, 255, 255);
+    left: 5%;
+    top: 85%;   
+}
+.n8{
+    width: 55%;
+    height: 7%;
+    background-color: dodgerblue;
+    left: 38%;
+    top: 107%;
+}
+.n99{
+    width: 55%;
+    height: 7.5%;
+    background-color: rgb(255, 255, 255);
+    margin: 3%;
+    left: 25%;
+    top: 115%;
+}
+.n9
+{
+    left: 50%;
+    top: 200%;
+}
