@@ -2,12 +2,12 @@
 @import url('https://db.onlinewebfonts.com/c/4b2e9a7beb7b319ec29dbb51cf5215cc?family=Death+to+Metal');
 @import url('https://db.onlinewebfonts.com/c/d26119fc55f4af095beb19f619ae1bab?family=Stone+Age');
 @font-face {font-family: "Stone Age W03 Rg";
-  src: url("fonts/d26119fc55f4af095beb19f619ae1bab.eot"); /* IE9*/
-  src: url("fonts/d26119fc55f4af095beb19f619ae1bab.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
-  url("fonts/d26119fc55f4af095beb19f619ae1bab.woff2") format("woff2"), /* chrome、firefox */
-  url("fonts/d26119fc55f4af095beb19f619ae1bab.woff") format("woff"), /* chrome、firefox */
-  url("fonts/d26119fc55f4af095beb19f619ae1bab.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
-  url("fonts/d26119fc55f4af095beb19f619ae1bab.svg#Stone Age W03 Rg") format("svg"); /* iOS 4.1- */
+  src: url("d26119fc55f4af095beb19f619ae1bab.eot"); /* IE9*/
+  src: url("d26119fc55f4af095beb19f619ae1bab.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+  url("d26119fc55f4af095beb19f619ae1bab.woff2") format("woff2"), /* chrome、firefox */
+  url("d26119fc55f4af095beb19f619ae1bab.woff") format("woff"), /* chrome、firefox */
+  url("d26119fc55f4af095beb19f619ae1bab.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+  url("d26119fc55f4af095beb19f619ae1bab.svg#Stone Age W03 Rg") format("svg"); /* iOS 4.1- */
 }
 body{
     background-image: url("fondo.jpg");
