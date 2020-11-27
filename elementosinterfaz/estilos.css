@@ -1,0 +1,97 @@
+
+body
+{
+    
+}
+.encabezado
+{
+    position: absolute;
+    left: 0px;
+
+    background-color: rgb(7, 33, 70);
+    height: 9%;
+    width: 100%;
+    top: 0px;
+    background-image: url('enca.JPG');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+.central{
+    position: absolute;
+    top: 9%;
+    left: 0%;
+    width: 100%;
+    height: 49.8%;
+    background-image: url('fondo.jpg');
+    background-size: 100%;
+    background-position: center;
+}
+.cuadro1
+{
+
+    background-color: white;
+    width: 29%;
+    height: 36%;
+    margin-left: 20%;
+    margin-top: 1.7%;
+    font-family: Calibri;
+    text-align: center;
+    padding-top: 1.5%;
+}
+.cuadro2
+{
+    background-color: rgb(29, 115, 178);
+    width: 8.2%;
+    height: 9.5%;
+    margin-left: 20%;
+    font-family: Calibri;
+    text-align: center;
+    color: white;
+    font-size: large;
+    padding-top: 1%;
+}
+.info{
+    position: absolute;
+    top: 58.8%;
+    border-bottom-color:rgba(128, 128, 128, 0.212);
+    border-bottom-style: ridge;
+    border-bottom-width: 1px;
+    left: 0%;
+    width: 100%;
+    height: 26.2%;
+}
+.t1
+{
+    width: 60%;
+    height: 70%;
+    background-color: rgb(234, 249, 250);
+    margin-left: 20%;
+    margin-top: 2%;
+}
+.t2
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    width: 83%;
+    float: right;
+}
+p,a
+{
+    font-size: 1.3vh;
+    line-height: 130%;
+}
+
+.botones{
+    position: relative;
+    margin-top: 44%;
+    margin-left: 3.2%;
+}
+.tl
+{
+    font-size: 1.8vh;
+    margin-top: 6%;
+    color: gray;
+    margin-left: 8%;
+    text-align: justify;
+}
