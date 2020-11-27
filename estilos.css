@@ -9,6 +9,22 @@
   url("d26119fc55f4af095beb19f619ae1bab.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
   url("d26119fc55f4af095beb19f619ae1bab.svg#Stone Age W03 Rg") format("svg"); /* iOS 4.1- */
 }
+@font-face {font-family: "Crazy David No 1 W00 Regular";
+  src: url("d1d2fcc2af22fc5b167c92e1cf1b0b0c.eot"); /* IE9*/
+  src: url("d1d2fcc2af22fc5b167c92e1cf1b0b0c.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+  url("d1d2fcc2af22fc5b167c92e1cf1b0b0c.woff2") format("woff2"), /* chrome、firefox */
+  url("d1d2fcc2af22fc5b167c92e1cf1b0b0c.woff") format("woff"), /* chrome、firefox */
+  url("d1d2fcc2af22fc5b167c92e1cf1b0b0c.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+  url("d1d2fcc2af22fc5b167c92e1cf1b0b0c.svg#Crazy David No 1 W00 Regular") format("svg"); /* iOS 4.1- */
+}
+@font-face {font-family: "Death to Metal";
+  src: url("4b2e9a7beb7b319ec29dbb51cf5215cc.eot"); /* IE9*/
+  src: url("4b2e9a7beb7b319ec29dbb51cf5215cc.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+  url("4b2e9a7beb7b319ec29dbb51cf5215cc.woff2") format("woff2"), /* chrome、firefox */
+  url("4b2e9a7beb7b319ec29dbb51cf5215cc.woff") format("woff"), /* chrome、firefox */
+  url("4b2e9a7beb7b319ec29dbb51cf5215cc.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+  url("4b2e9a7beb7b319ec29dbb51cf5215cc.svg#Death to Metal") format("svg"); /* iOS 4.1- */
+}
 body{
     background-image: url("fondo.jpg");
     background-repeat: no-repeat;
@@ -20,16 +36,16 @@ h1
 {
     -webkit-text-fill-color: yellow;
     font-weight: lighter;
-    font-family: "CrazyDavidNo1W00-Regular";
-    font-size: 8vh;
+ font-family:"Crazy David No 1 W00 Regular";
+  font-size: 8vh;
     margin-top: 0%;
     
 }
 h3{
     -webkit-text-fill-color: coral;
     -webkit-text-stroke:0.001px black ;
-    font-family: "Death to Metal",monospace;
-    font-size: 7vh;
+font-family:"Death to Metal";
+  font-size: 7vh;
     position: absolute;
     left: 30%;
     width: 40%;
